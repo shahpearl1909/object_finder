@@ -1,0 +1,54 @@
+body{
+    background-size: cover;
+}
+
+#title{
+    width: 100%;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#start{
+    font-size: 20px;
+    background-color:  rgb(244, 216, 194);
+    border-radius: 10px;
+    padding: 7px;
+}
+
+#number{
+    background-color: rgb(212, 231, 247);
+    width: 20%;
+    border-radius: 10px;
+    padding: 8px;
+    font-size: 20px;
+}
+
+#status{
+    background-color: rgb(244, 216, 194);
+    width: 20%;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    background-color: rgb(129, 171, 205);
+    color: black;
+    font-weight: bold;
+}
+
+canvas{
+    border: 2px solid whitesmoke;
+    border-radius: 20%;
+    margin-top: 100px;
+    box-shadow: 5px 5px 5px rgb(202, 247, 235);
+}
+
+#text_box{
+    width:30%;
+}
